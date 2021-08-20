@@ -13,6 +13,14 @@ https://developers.google.com/optimization/routing/vrp
 The data that is used in the analysis is from the following website:
 https://www.transportation.gov/policy/aviation-policy/domestic-airline-consumer-airfare-report
 
+The tools used for the project are the following:
+1) python and jupyter notebook
+2) networkx package
+3) pandas
+4) wolfram mathematica
+5) Exploratory to scrap data from wikipedia
+6) Google OR Tools  
+
 Some other sources of datasets on flights and commerical aviation:
 
 1) A database on flights with over 10,000 airports worldwide: https://openflights.org/data.html#airline
