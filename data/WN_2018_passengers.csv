@@ -1,0 +1,722 @@
+origin,destination,number_of_passengers
+"Albuquerque, NM","Dallas/Fort Worth, TX",560.25
+"Albuquerque, NM","Denver, CO",476.42857142857144
+"Albuquerque, NM","Austin, TX",225.0
+"Albuquerque, NM","Phoenix, AZ",703.25
+"Albuquerque, NM","Boston, MA (Metropolitan Area)",268.6666666666667
+"Albuquerque, NM","Chicago, IL",351.75
+"Albuquerque, NM","Houston, TX",341.75
+"Albuquerque, NM","Orlando, FL",202.66666666666666
+"Albuquerque, NM","Las Vegas, NV",478.25
+"Albuquerque, NM","San Francisco, CA (Metropolitan Area)",725.5
+"Albuquerque, NM","Los Angeles, CA (Metropolitan Area)",1053.142857142857
+"Albuquerque, NM","San Diego, CA",400.75
+"Albuquerque, NM","Portland, OR",272.0
+"Albuquerque, NM","Washington, DC (Metropolitan Area)",568.25
+"Albuquerque, NM","Atlanta, GA (Metropolitan Area)",215.66666666666666
+"Albuquerque, NM","Seattle, WA",428.0
+"Albuquerque, NM","Salt Lake City, UT",210.0
+"Dallas/Fort Worth, TX","Pittsburgh, PA",713.25
+"Dallas/Fort Worth, TX","Denver, CO",2974.0
+"Dallas/Fort Worth, TX","Phoenix, AZ",2136.5
+"Dallas/Fort Worth, TX","Hartford, CT",303.6666666666667
+"Dallas/Fort Worth, TX","El Paso, TX",660.25
+"Dallas/Fort Worth, TX","Nashville, TN",1198.5
+"Dallas/Fort Worth, TX","St. Louis, MO",1134.75
+"Dallas/Fort Worth, TX","Jacksonville, FL",472.25
+"Dallas/Fort Worth, TX","Houston, TX",2574.25
+"Dallas/Fort Worth, TX","Orlando, FL",2176.0
+"Dallas/Fort Worth, TX","Panama City, FL",251.0
+"Dallas/Fort Worth, TX","New York City, NY (Metropolitan Area)",5763.75
+"Dallas/Fort Worth, TX","Indianapolis, IN",690.5
+"Dallas/Fort Worth, TX","Miami, FL (Metropolitan Area)",1937.0
+"Dallas/Fort Worth, TX","Los Angeles, CA (Metropolitan Area)",6127.5
+"Dallas/Fort Worth, TX","Little Rock, AR",338.0
+"Dallas/Fort Worth, TX","Louisville, KY",327.0
+"Dallas/Fort Worth, TX","Sacramento, CA",550.5
+"Dallas/Fort Worth, TX","Tampa, FL (Metropolitan Area)",1207.0
+"Dallas/Fort Worth, TX","Kansas City, MO",1179.5
+"Dallas/Fort Worth, TX","San Antonio, TX",1302.0
+"Dallas/Fort Worth, TX","Memphis, TN",541.25
+"Dallas/Fort Worth, TX","Omaha, NE",449.25
+"Dallas/Fort Worth, TX","Milwaukee, WI",552.25
+"Dallas/Fort Worth, TX","New Orleans, LA",1359.25
+"Dallas/Fort Worth, TX","San Diego, CA",1657.0
+"Dallas/Fort Worth, TX","Oklahoma City, OK",234.0
+"Dallas/Fort Worth, TX","Raleigh/Durham, NC",844.5
+"Dallas/Fort Worth, TX","Reno, NV",249.0
+"Dallas/Fort Worth, TX","Des Moines, IA",200.5
+"Dallas/Fort Worth, TX","Washington, DC (Metropolitan Area)",3961.25
+"Dallas/Fort Worth, TX","Detroit, MI",1453.75
+"Dallas/Fort Worth, TX","Greenville/Spartanburg, SC",210.0
+"Dallas/Fort Worth, TX","Pensacola, FL",247.5
+"Dallas/Fort Worth, TX","Philadelphia, PA",1558.0
+"Dallas/Fort Worth, TX","Salt Lake City, UT",1052.5
+"Dallas/Fort Worth, TX","Lubbock, TX",429.25
+"Dallas/Fort Worth, TX","Midland/Odessa, TX",418.75
+"Dallas/Fort Worth, TX","Tulsa, OK",415.0
+"Dallas/Fort Worth, TX","West Palm Beach/Palm Beach, FL",244.0
+"Dallas/Fort Worth, TX","Richmond, VA",345.0
+"Dallas/Fort Worth, TX","Amarillo, TX",313.5
+"Dallas/Fort Worth, TX","Austin, TX",1017.5
+"Dallas/Fort Worth, TX","Birmingham, AL",422.0
+"Dallas/Fort Worth, TX","Cleveland, OH (Metropolitan Area)",531.5
+"Dallas/Fort Worth, TX","Boise, ID",208.33333333333334
+"Dallas/Fort Worth, TX","Buffalo, NY",215.0
+"Dallas/Fort Worth, TX","Chicago, IL",3897.0
+"Dallas/Fort Worth, TX","Charleston, SC",309.0
+"Dallas/Fort Worth, TX","Columbus, OH",636.75
+"Dallas/Fort Worth, TX","Atlanta, GA (Metropolitan Area)",3313.0
+"Dallas/Fort Worth, TX","Charlotte, NC",1183.25
+"Dallas/Fort Worth, TX","Corpus Christi, TX",211.25
+"Denver, CO","Albany, NY",248.14285714285714
+"Denver, CO","Pittsburgh, PA",460.0
+"Denver, CO","Phoenix, AZ",3328.0
+"Denver, CO","Hartford, CT",361.25
+"Denver, CO","Nashville, TN",1013.75
+"Denver, CO","St. Louis, MO",1097.8
+"Denver, CO","Jacksonville, FL",423.25
+"Denver, CO","Houston, TX",2405.4
+"Denver, CO","Orlando, FL",1890.25
+"Denver, CO","New York City, NY (Metropolitan Area)",4334.25
+"Denver, CO","Grand Rapids, MI",210.0
+"Denver, CO","Las Vegas, NV",2342.0
+"Denver, CO","Indianapolis, IN",868.0
+"Denver, CO","San Francisco, CA (Metropolitan Area)",4322.0
+"Denver, CO","Los Angeles, CA (Metropolitan Area)",5834.666666666667
+"Denver, CO","Louisville, KY",262.0
+"Denver, CO","Sacramento, CA",801.25
+"Denver, CO","Tampa, FL (Metropolitan Area)",1166.0
+"Denver, CO","Kansas City, MO",1191.25
+"Denver, CO","San Antonio, TX",735.0
+"Denver, CO","Omaha, NE",602.0
+"Denver, CO","Milwaukee, WI",798.75
+"Denver, CO","New Orleans, LA",857.0
+"Denver, CO","San Diego, CA",1874.2
+"Denver, CO","Norfolk, VA (Metropolitan Area)",231.0
+"Denver, CO","Oklahoma City, OK",548.2857142857143
+"Denver, CO","Portland, OR",1275.0
+"Denver, CO","Raleigh/Durham, NC",771.4
+"Denver, CO","Reno, NV",382.3333333333333
+"Denver, CO","Tucson, AZ",401.0
+"Denver, CO","Seattle, WA",1993.0
+"Denver, CO","Detroit, MI",1185.0
+"Denver, CO","Minneapolis/St. Paul, MN",2144.5
+"Denver, CO","Philadelphia, PA",1286.0
+"Denver, CO","Salt Lake City, UT",1407.5
+"Denver, CO","Spokane, WA",340.57142857142856
+"Denver, CO","Tulsa, OK",396.5
+"Denver, CO","Richmond, VA",231.0
+"Denver, CO","Austin, TX",1467.4
+"Denver, CO","Cleveland, OH (Metropolitan Area)",505.0
+"Denver, CO","Boise, ID",387.25
+"Denver, CO","Boston, MA (Metropolitan Area)",2675.0
+"Denver, CO","Chicago, IL",3673.5
+"Denver, CO","Charleston, SC",329.0
+"Denver, CO","Columbus, OH",554.6666666666666
+"Denver, CO","Atlanta, GA (Metropolitan Area)",2061.0
+"Austin, TX","Pittsburgh, PA",208.25
+"Austin, TX","Phoenix, AZ",796.75
+"Austin, TX","El Paso, TX",321.6
+"Austin, TX","Cleveland, OH (Metropolitan Area)",226.0
+"Austin, TX","Nashville, TN",387.0
+"Austin, TX","Boston, MA (Metropolitan Area)",1018.5
+"Austin, TX","Chicago, IL",1469.25
+"Austin, TX","Columbus, OH",228.66666666666666
+"Austin, TX","St. Louis, MO",323.75
+"Austin, TX","Houston, TX",231.0
+"Austin, TX","Orlando, FL",803.0
+"Austin, TX","New York City, NY (Metropolitan Area)",2488.75
+"Austin, TX","Las Vegas, NV",978.5
+"Austin, TX","Indianapolis, IN",269.5
+"Austin, TX","San Francisco, CA (Metropolitan Area)",2149.5
+"Austin, TX","Miami, FL (Metropolitan Area)",786.5
+"Austin, TX","Los Angeles, CA (Metropolitan Area)",2372.0
+"Austin, TX","Sacramento, CA",283.25
+"Austin, TX","Tampa, FL (Metropolitan Area)",369.2
+"Austin, TX","Kansas City, MO",278.75
+"Austin, TX","Milwaukee, WI",209.0
+"Austin, TX","New Orleans, LA",451.0
+"Austin, TX","San Diego, CA",674.75
+"Austin, TX","Raleigh/Durham, NC",379.0
+"Austin, TX","Washington, DC (Metropolitan Area)",1282.0
+"Austin, TX","Detroit, MI",389.5
+"Austin, TX","Philadelphia, PA",398.0
+"Austin, TX","Salt Lake City, UT",363.0
+"Austin, TX","Atlanta, GA (Metropolitan Area)",981.75
+"Phoenix, AZ","Pittsburgh, PA",462.25
+"Phoenix, AZ","St. Louis, MO",746.5
+"Phoenix, AZ","San Francisco, CA (Metropolitan Area)",3941.0
+"Phoenix, AZ","Sacramento, CA",1099.0
+"Phoenix, AZ","Tampa, FL (Metropolitan Area)",570.25
+"Phoenix, AZ","San Antonio, TX",578.75
+"Phoenix, AZ","San Diego, CA",1508.4285714285713
+"Phoenix, AZ","Portland, OR",1652.142857142857
+"Phoenix, AZ","Raleigh/Durham, NC",378.25
+"Phoenix, AZ","Reno, NV",446.0
+"Phoenix, AZ","Washington, DC (Metropolitan Area)",1730.25
+"Phoenix, AZ","Seattle, WA",2921.6666666666665
+"Phoenix, AZ","Salt Lake City, UT",1311.2857142857142
+"Phoenix, AZ","Spokane, WA",436.7142857142857
+"Phoenix, AZ","Tulsa, OK",216.33333333333334
+"Phoenix, AZ","Wichita, KS",212.0
+"Phoenix, AZ","Hartford, CT",227.5
+"Phoenix, AZ","El Paso, TX",323.75
+"Phoenix, AZ","Cleveland, OH (Metropolitan Area)",579.6666666666666
+"Phoenix, AZ","Nashville, TN",542.6666666666666
+"Phoenix, AZ","Boise, ID",402.75
+"Phoenix, AZ","Buffalo, NY",214.0
+"Phoenix, AZ","Chicago, IL",3728.5
+"Phoenix, AZ","Columbus, OH",456.6
+"Phoenix, AZ","Houston, TX",1109.5
+"Phoenix, AZ","Orlando, FL",825.5
+"Phoenix, AZ","Las Vegas, NV",1669.5
+"Phoenix, AZ","Indianapolis, IN",591.75
+"Phoenix, AZ","Miami, FL (Metropolitan Area)",831.5
+"Phoenix, AZ","Los Angeles, CA (Metropolitan Area)",5190.666666666667
+"Phoenix, AZ","Louisville, KY",208.4
+"Phoenix, AZ","Kansas City, MO",798.8333333333334
+"Phoenix, AZ","Memphis, TN",186.5
+"Phoenix, AZ","Omaha, NE",619.25
+"Phoenix, AZ","Milwaukee, WI",828.0
+"Phoenix, AZ","New Orleans, LA",352.57142857142856
+"Phoenix, AZ","Oklahoma City, OK",256.42857142857144
+"Phoenix, AZ","Atlanta, GA (Metropolitan Area)",1221.0
+"Phoenix, AZ","Detroit, MI",1273.25
+"Phoenix, AZ","Minneapolis/St. Paul, MN",1593.0
+"Phoenix, AZ","Philadelphia, PA",1052.0
+"Boston, MA (Metropolitan Area)","Nashville, TN",1455.4
+"Boston, MA (Metropolitan Area)","Chicago, IL",4297.0
+"Boston, MA (Metropolitan Area)","Columbus, OH",658.2857142857143
+"Boston, MA (Metropolitan Area)","St. Louis, MO",685.1666666666666
+"Boston, MA (Metropolitan Area)","Orlando, FL",4458.25
+"Boston, MA (Metropolitan Area)","Fort Myers, FL",1627.0
+"Boston, MA (Metropolitan Area)","Grand Rapids, MI",209.0
+"Boston, MA (Metropolitan Area)","Indianapolis, IN",749.3333333333334
+"Boston, MA (Metropolitan Area)","Miami, FL (Metropolitan Area)",3534.5
+"Boston, MA (Metropolitan Area)","Louisville, KY",267.3333333333333
+"Boston, MA (Metropolitan Area)","Tampa, FL (Metropolitan Area)",2404.5
+"Boston, MA (Metropolitan Area)","Kansas City, MO",628.0
+"Boston, MA (Metropolitan Area)","San Antonio, TX",355.5
+"Boston, MA (Metropolitan Area)","Memphis, TN",220.0
+"Boston, MA (Metropolitan Area)","Omaha, NE",220.0
+"Boston, MA (Metropolitan Area)","Milwaukee, WI",493.85714285714283
+"Boston, MA (Metropolitan Area)","Washington, DC (Metropolitan Area)",7389.5
+"Boston, MA (Metropolitan Area)","Tucson, AZ",169.0
+"Chicago, IL","Albany, NY",303.5
+"Chicago, IL","Birmingham, AL",360.14285714285717
+"Chicago, IL","Boise, ID",209.0
+"Chicago, IL","Buffalo, NY",531.0
+"Chicago, IL","Pittsburgh, PA",1092.25
+"Chicago, IL","Hartford, CT",687.75
+"Chicago, IL","El Paso, TX",213.0
+"Chicago, IL","Cleveland, OH (Metropolitan Area)",1207.5
+"Chicago, IL","Nashville, TN",1286.0
+"Chicago, IL","Columbus, OH",1089.75
+"Chicago, IL","St. Louis, MO",1056.75
+"Chicago, IL","Jacksonville, FL",595.5
+"Chicago, IL","Houston, TX",2465.5
+"Chicago, IL","Orlando, FL",4023.5
+"Chicago, IL","New York City, NY (Metropolitan Area)",11630.0
+"Chicago, IL","Fort Myers, FL",1363.5
+"Chicago, IL","Las Vegas, NV",3557.25
+"Chicago, IL","Indianapolis, IN",290.5
+"Chicago, IL","San Francisco, CA (Metropolitan Area)",5000.75
+"Chicago, IL","Miami, FL (Metropolitan Area)",4279.25
+"Chicago, IL","Los Angeles, CA (Metropolitan Area)",7054.5
+"Chicago, IL","Louisville, KY",402.5
+"Chicago, IL","Sacramento, CA",632.6
+"Chicago, IL","Tampa, FL (Metropolitan Area)",2223.0
+"Chicago, IL","Kansas City, MO",1450.25
+"Chicago, IL","San Antonio, TX",911.25
+"Chicago, IL","Memphis, TN",556.5
+"Chicago, IL","Omaha, NE",730.75
+"Chicago, IL","New Orleans, LA",1321.8
+"Chicago, IL","Norfolk, VA (Metropolitan Area)",476.5
+"Chicago, IL","Oklahoma City, OK",379.75
+"Chicago, IL","Raleigh/Durham, NC",1244.5
+"Chicago, IL","Reno, NV",264.0
+"Chicago, IL","Washington, DC (Metropolitan Area)",5229.5
+"Chicago, IL","Tucson, AZ",335.6666666666667
+"Chicago, IL","Seattle, WA",1507.0
+"Chicago, IL","Detroit, MI",1461.0
+"Chicago, IL","Minneapolis/St. Paul, MN",2950.0
+"Chicago, IL","Cincinnati, OH",859.0
+"Chicago, IL","Philadelphia, PA",2375.25
+"Chicago, IL","Salt Lake City, UT",960.0
+"Chicago, IL","Spokane, WA",200.0
+"Chicago, IL","Tulsa, OK",198.33333333333334
+"Chicago, IL","Charleston, SC",618.75
+"Chicago, IL","Atlanta, GA (Metropolitan Area)",4025.25
+"Chicago, IL","Charlotte, NC",1367.75
+"Houston, TX","Amarillo, TX",200.0
+"Houston, TX","Hartford, CT",201.33333333333334
+"Houston, TX","Birmingham, AL",313.75
+"Houston, TX","El Paso, TX",397.25
+"Houston, TX","Cleveland, OH (Metropolitan Area)",452.5
+"Houston, TX","Buffalo, NY",211.0
+"Houston, TX","Charleston, SC",236.4
+"Houston, TX","Columbus, OH",371.0
+"Houston, TX","Pittsburgh, PA",626.75
+"Houston, TX","Nashville, TN",768.75
+"Houston, TX","St. Louis, MO",654.5
+"Houston, TX","Jacksonville, FL",273.75
+"Houston, TX","New York City, NY (Metropolitan Area)",4124.5
+"Houston, TX","Las Vegas, NV",1899.6666666666667
+"Houston, TX","Indianapolis, IN",448.6
+"Houston, TX","San Francisco, CA (Metropolitan Area)",2107.0
+"Houston, TX","Miami, FL (Metropolitan Area)",1808.0
+"Houston, TX","Little Rock, AR",195.0
+"Houston, TX","Louisville, KY",253.66666666666666
+"Houston, TX","Sacramento, CA",342.8333333333333
+"Houston, TX","Tampa, FL (Metropolitan Area)",777.5
+"Houston, TX","Kansas City, MO",633.75
+"Houston, TX","San Antonio, TX",303.0
+"Houston, TX","Memphis, TN",376.5
+"Houston, TX","Omaha, NE",315.85714285714283
+"Houston, TX","Milwaukee, WI",328.25
+"Houston, TX","New Orleans, LA",1426.0
+"Houston, TX","San Diego, CA",878.0
+"Houston, TX","Norfolk, VA (Metropolitan Area)",222.5
+"Houston, TX","Oklahoma City, OK",623.0
+"Houston, TX","Portland, OR",447.6666666666667
+"Houston, TX","Raleigh/Durham, NC",542.0
+"Houston, TX","Washington, DC (Metropolitan Area)",2575.3333333333335
+"Houston, TX","Philadelphia, PA",879.75
+"Houston, TX","Salt Lake City, UT",617.75
+"Houston, TX","Lubbock, TX",236.5
+"Houston, TX","Midland/Odessa, TX",737.75
+"Houston, TX","Tulsa, OK",606.0
+"Houston, TX","Richmond, VA",215.0
+"Houston, TX","Harlingen/San Benito, TX",224.5
+"Houston, TX","Atlanta, GA (Metropolitan Area)",2251.5
+"Houston, TX","Charlotte, NC",762.25
+"Orlando, FL","Albany, NY",707.5
+"Orlando, FL","Hartford, CT",1350.0
+"Orlando, FL","Birmingham, AL",388.0
+"Orlando, FL","Nashville, TN",1040.5
+"Orlando, FL","Buffalo, NY",1182.5
+"Orlando, FL","Columbus, OH",964.5
+"Orlando, FL","Pittsburgh, PA",1172.0
+"Orlando, FL","St. Louis, MO",1005.0
+"Orlando, FL","San Francisco, CA (Metropolitan Area)",1554.0
+"Orlando, FL","Sacramento, CA",385.75
+"Orlando, FL","San Antonio, TX",523.5
+"Orlando, FL","San Diego, CA",696.3333333333334
+"Orlando, FL","Portland, OR",526.0
+"Orlando, FL","Raleigh/Durham, NC",969.4285714285714
+"Orlando, FL","Rochester, NY",352.14285714285717
+"Orlando, FL","Washington, DC (Metropolitan Area)",5361.25
+"Orlando, FL","Portland, ME",217.0
+"Orlando, FL","Tulsa, OK",206.0
+"Orlando, FL","New York City, NY (Metropolitan Area)",11163.0
+"Orlando, FL","Grand Rapids, MI",621.0
+"Orlando, FL","Las Vegas, NV",1117.75
+"Orlando, FL","Indianapolis, IN",1163.75
+"Orlando, FL","Miami, FL (Metropolitan Area)",731.0
+"Orlando, FL","Louisville, KY",337.25
+"Orlando, FL","Kansas City, MO",786.0
+"Orlando, FL","Memphis, TN",440.5
+"Orlando, FL","Omaha, NE",346.8
+"Orlando, FL","Milwaukee, WI",961.0
+"Orlando, FL","New Orleans, LA",758.75
+"Orlando, FL","Norfolk, VA (Metropolitan Area)",377.75
+"Orlando, FL","Oklahoma City, OK",282.0
+"Orlando, FL","Des Moines, IA",204.0
+"Orlando, FL","Atlanta, GA (Metropolitan Area)",2175.5
+"Las Vegas, NV","Hartford, CT",282.8
+"Las Vegas, NV","El Paso, TX",337.25
+"Las Vegas, NV","Cleveland, OH (Metropolitan Area)",806.0
+"Las Vegas, NV","Boise, ID",326.75
+"Las Vegas, NV","Buffalo, NY",353.6666666666667
+"Las Vegas, NV","Columbus, OH",568.5
+"Las Vegas, NV","Jacksonville, FL",243.0
+"Las Vegas, NV","Pittsburgh, PA",649.5
+"Las Vegas, NV","Nashville, TN",698.5
+"Las Vegas, NV","St. Louis, MO",883.5
+"Las Vegas, NV","San Francisco, CA (Metropolitan Area)",6646.8
+"Las Vegas, NV","Los Angeles, CA (Metropolitan Area)",6588.25
+"Las Vegas, NV","Louisville, KY",299.75
+"Las Vegas, NV","Sacramento, CA",964.75
+"Las Vegas, NV","Tampa, FL (Metropolitan Area)",846.0
+"Las Vegas, NV","San Antonio, TX",901.5
+"Las Vegas, NV","Omaha, NE",500.75
+"Las Vegas, NV","Milwaukee, WI",693.5
+"Las Vegas, NV","New Orleans, LA",601.5
+"Las Vegas, NV","San Diego, CA",1439.0
+"Las Vegas, NV","Norfolk, VA (Metropolitan Area)",181.0
+"Las Vegas, NV","Oklahoma City, OK",384.0
+"Las Vegas, NV","Portland, OR",1589.0
+"Las Vegas, NV","Raleigh/Durham, NC",600.0
+"Las Vegas, NV","Reno, NV",1079.75
+"Las Vegas, NV","Washington, DC (Metropolitan Area)",2578.0
+"Las Vegas, NV","Tucson, AZ",276.42857142857144
+"Las Vegas, NV","Seattle, WA",2943.6666666666665
+"Las Vegas, NV","Salt Lake City, UT",1048.0
+"Las Vegas, NV","Spokane, WA",371.14285714285717
+"Las Vegas, NV","Tulsa, OK",267.75
+"Las Vegas, NV","Wichita, KS",220.5
+"Las Vegas, NV","Richmond, VA",181.5
+"Las Vegas, NV","Indianapolis, IN",804.75
+"Las Vegas, NV","Kansas City, MO",823.25
+"San Francisco, CA (Metropolitan Area)","Pittsburgh, PA",640.3333333333334
+"San Francisco, CA (Metropolitan Area)","Albany, NY",233.0
+"San Francisco, CA (Metropolitan Area)","Hartford, CT",303.0
+"San Francisco, CA (Metropolitan Area)","El Paso, TX",227.0
+"San Francisco, CA (Metropolitan Area)","Cleveland, OH (Metropolitan Area)",657.3333333333334
+"San Francisco, CA (Metropolitan Area)","Nashville, TN",831.0
+"San Francisco, CA (Metropolitan Area)","Boise, ID",604.4
+"San Francisco, CA (Metropolitan Area)","Buffalo, NY",261.3333333333333
+"San Francisco, CA (Metropolitan Area)","Charleston, SC",212.0
+"San Francisco, CA (Metropolitan Area)","Columbus, OH",476.75
+"San Francisco, CA (Metropolitan Area)","Jacksonville, FL",232.25
+"San Francisco, CA (Metropolitan Area)","Grand Rapids, MI",200.0
+"San Francisco, CA (Metropolitan Area)","Indianapolis, IN",770.0
+"San Francisco, CA (Metropolitan Area)","St. Louis, MO",758.75
+"San Francisco, CA (Metropolitan Area)","Tampa, FL (Metropolitan Area)",642.5
+"San Francisco, CA (Metropolitan Area)","Washington, DC (Metropolitan Area)",4257.0
+"San Francisco, CA (Metropolitan Area)","Tucson, AZ",499.0
+"San Francisco, CA (Metropolitan Area)","Seattle, WA",7492.75
+"San Francisco, CA (Metropolitan Area)","Spokane, WA",477.42857142857144
+"San Francisco, CA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",23076.0
+"San Francisco, CA (Metropolitan Area)","Louisville, KY",199.0
+"San Francisco, CA (Metropolitan Area)","Kansas City, MO",710.75
+"San Francisco, CA (Metropolitan Area)","San Antonio, TX",555.0
+"San Francisco, CA (Metropolitan Area)","Memphis, TN",191.0
+"San Francisco, CA (Metropolitan Area)","Omaha, NE",366.25
+"San Francisco, CA (Metropolitan Area)","Milwaukee, WI",370.75
+"San Francisco, CA (Metropolitan Area)","New Orleans, LA",984.5
+"San Francisco, CA (Metropolitan Area)","San Diego, CA",7390.2
+"San Francisco, CA (Metropolitan Area)","Norfolk, VA (Metropolitan Area)",207.66666666666666
+"San Francisco, CA (Metropolitan Area)","Oklahoma City, OK",224.57142857142858
+"San Francisco, CA (Metropolitan Area)","Portland, OR",4382.0
+"San Francisco, CA (Metropolitan Area)","Reno, NV",508.2
+"San Francisco, CA (Metropolitan Area)","Atlanta, GA (Metropolitan Area)",2258.3333333333335
+"San Francisco, CA (Metropolitan Area)","Charlotte, NC",763.0
+"San Francisco, CA (Metropolitan Area)","Detroit, MI",939.0
+"San Francisco, CA (Metropolitan Area)","Salt Lake City, UT",2312.0
+"Los Angeles, CA (Metropolitan Area)","Albany, NY",207.5
+"Los Angeles, CA (Metropolitan Area)","Hartford, CT",498.0
+"Los Angeles, CA (Metropolitan Area)","Birmingham, AL",248.75
+"Los Angeles, CA (Metropolitan Area)","El Paso, TX",636.25
+"Los Angeles, CA (Metropolitan Area)","Boise, ID",734.1666666666666
+"Los Angeles, CA (Metropolitan Area)","Charleston, SC",253.5
+"Los Angeles, CA (Metropolitan Area)","Columbus, OH",706.0
+"Los Angeles, CA (Metropolitan Area)","Jacksonville, FL",338.5
+"Los Angeles, CA (Metropolitan Area)","Grand Rapids, MI",257.25
+"Los Angeles, CA (Metropolitan Area)","Indianapolis, IN",921.0
+"Los Angeles, CA (Metropolitan Area)","Pittsburgh, PA",788.5
+"Los Angeles, CA (Metropolitan Area)","Nashville, TN",1441.75
+"Los Angeles, CA (Metropolitan Area)","St. Louis, MO",1125.75
+"Los Angeles, CA (Metropolitan Area)","Louisville, KY",298.75
+"Los Angeles, CA (Metropolitan Area)","Sacramento, CA",6289.25
+"Los Angeles, CA (Metropolitan Area)","Tampa, FL (Metropolitan Area)",967.3333333333334
+"Los Angeles, CA (Metropolitan Area)","San Antonio, TX",1120.75
+"Los Angeles, CA (Metropolitan Area)","Omaha, NE",533.5
+"Los Angeles, CA (Metropolitan Area)","Milwaukee, WI",580.0
+"Los Angeles, CA (Metropolitan Area)","New Orleans, LA",1697.0
+"Los Angeles, CA (Metropolitan Area)","Norfolk, VA (Metropolitan Area)",318.5
+"Los Angeles, CA (Metropolitan Area)","Oklahoma City, OK",438.0
+"Los Angeles, CA (Metropolitan Area)","Portland, OR",5280.333333333333
+"Los Angeles, CA (Metropolitan Area)","Raleigh/Durham, NC",966.75
+"Los Angeles, CA (Metropolitan Area)","Reno, NV",1196.0
+"Los Angeles, CA (Metropolitan Area)","Tucson, AZ",793.4285714285714
+"Los Angeles, CA (Metropolitan Area)","Spokane, WA",718.25
+"Los Angeles, CA (Metropolitan Area)","Tulsa, OK",356.75
+"Los Angeles, CA (Metropolitan Area)","Wichita, KS",206.5
+"Los Angeles, CA (Metropolitan Area)","Little Rock, AR",212.16666666666666
+"Los Angeles, CA (Metropolitan Area)","Kansas City, MO",1266.5
+"Los Angeles, CA (Metropolitan Area)","Des Moines, IA",238.0
+"Los Angeles, CA (Metropolitan Area)","Atlanta, GA (Metropolitan Area)",3871.75
+"San Diego, CA","Pittsburgh, PA",237.14285714285714
+"San Diego, CA","Hartford, CT",196.0
+"San Diego, CA","Cleveland, OH (Metropolitan Area)",252.0
+"San Diego, CA","Nashville, TN",388.0
+"San Diego, CA","Boise, ID",354.0
+"San Diego, CA","Columbus, OH",219.66666666666666
+"San Diego, CA","Jacksonville, FL",199.0
+"San Diego, CA","Indianapolis, IN",333.85714285714283
+"San Diego, CA","Miami, FL (Metropolitan Area)",706.0
+"San Diego, CA","Sacramento, CA",2251.25
+"San Diego, CA","Kansas City, MO",496.25
+"San Diego, CA","San Antonio, TX",437.75
+"San Diego, CA","Milwaukee, WI",226.0
+"San Diego, CA","New Orleans, LA",377.75
+"San Diego, CA","St. Louis, MO",518.0
+"San Diego, CA","Tampa, FL (Metropolitan Area)",367.25
+"San Diego, CA","Washington, DC (Metropolitan Area)",1984.5
+"San Diego, CA","Tucson, AZ",252.42857142857142
+"San Diego, CA","Seattle, WA",2462.3333333333335
+"San Diego, CA","Spokane, WA",276.7142857142857
+"San Diego, CA","Norfolk, VA (Metropolitan Area)",314.3333333333333
+"San Diego, CA","Oklahoma City, OK",212.0
+"San Diego, CA","Portland, OR",1376.5
+"San Diego, CA","Raleigh/Durham, NC",324.2
+"San Diego, CA","Reno, NV",384.4
+"San Diego, CA","Atlanta, GA (Metropolitan Area)",768.25
+"San Diego, CA","Detroit, MI",494.0
+"San Diego, CA","Philadelphia, PA",693.0
+"San Diego, CA","Salt Lake City, UT",1073.5
+"Portland, OR","Nashville, TN",252.4
+"Portland, OR","Indianapolis, IN",208.0
+"Portland, OR","Miami, FL (Metropolitan Area)",302.0
+"Portland, OR","Kansas City, MO",301.4
+"Portland, OR","Omaha, NE",212.0
+"Portland, OR","Milwaukee, WI",209.0
+"Portland, OR","New Orleans, LA",209.33333333333334
+"Portland, OR","St. Louis, MO",272.0
+"Portland, OR","Sacramento, CA",981.8333333333334
+"Portland, OR","Tampa, FL (Metropolitan Area)",201.4
+"Portland, OR","Reno, NV",277.25
+"Portland, OR","Washington, DC (Metropolitan Area)",911.25
+"Portland, OR","Tucson, AZ",225.0
+"Portland, OR","Philadelphia, PA",215.0
+"Washington, DC (Metropolitan Area)","Pittsburgh, PA",382.0
+"Washington, DC (Metropolitan Area)","Albany, NY",433.42857142857144
+"Washington, DC (Metropolitan Area)","Hartford, CT",1056.5
+"Washington, DC (Metropolitan Area)","Birmingham, AL",414.6
+"Washington, DC (Metropolitan Area)","El Paso, TX",259.75
+"Washington, DC (Metropolitan Area)","Cleveland, OH (Metropolitan Area)",713.0
+"Washington, DC (Metropolitan Area)","Nashville, TN",1533.0
+"Washington, DC (Metropolitan Area)","Boise, ID",202.0
+"Washington, DC (Metropolitan Area)","Buffalo, NY",523.2857142857143
+"Washington, DC (Metropolitan Area)","Columbus, OH",959.25
+"Washington, DC (Metropolitan Area)","St. Louis, MO",1211.7142857142858
+"Washington, DC (Metropolitan Area)","Jacksonville, FL",1154.75
+"Washington, DC (Metropolitan Area)","Panama City, FL",199.0
+"Washington, DC (Metropolitan Area)","Fort Myers, FL",1003.4
+"Washington, DC (Metropolitan Area)","Grand Rapids, MI",234.57142857142858
+"Washington, DC (Metropolitan Area)","Indianapolis, IN",1111.75
+"Washington, DC (Metropolitan Area)","Miami, FL (Metropolitan Area)",5661.75
+"Washington, DC (Metropolitan Area)","Little Rock, AR",234.25
+"Washington, DC (Metropolitan Area)","Louisville, KY",606.0
+"Washington, DC (Metropolitan Area)","Sacramento, CA",686.8571428571429
+"Washington, DC (Metropolitan Area)","Tampa, FL (Metropolitan Area)",2790.5714285714284
+"Washington, DC (Metropolitan Area)","Kansas City, MO",1164.25
+"Washington, DC (Metropolitan Area)","San Antonio, TX",1169.0
+"Washington, DC (Metropolitan Area)","Memphis, TN",585.5
+"Washington, DC (Metropolitan Area)","Omaha, NE",517.0
+"Washington, DC (Metropolitan Area)","Milwaukee, WI",791.0
+"Washington, DC (Metropolitan Area)","New Orleans, LA",1872.6666666666667
+"Washington, DC (Metropolitan Area)","Norfolk, VA (Metropolitan Area)",199.0
+"Washington, DC (Metropolitan Area)","Oklahoma City, OK",455.0
+"Washington, DC (Metropolitan Area)","Raleigh/Durham, NC",1140.0
+"Washington, DC (Metropolitan Area)","Reno, NV",230.33333333333334
+"Washington, DC (Metropolitan Area)","Rochester, NY",223.66666666666666
+"Washington, DC (Metropolitan Area)","Des Moines, IA",281.3333333333333
+"Washington, DC (Metropolitan Area)","West Palm Beach/Palm Beach, FL",859.0
+"Washington, DC (Metropolitan Area)","Atlanta, GA (Metropolitan Area)",4927.75
+"Washington, DC (Metropolitan Area)","Tucson, AZ",337.25
+"Washington, DC (Metropolitan Area)","Seattle, WA",2297.6666666666665
+"Washington, DC (Metropolitan Area)","Charlotte, NC",1614.5
+"Washington, DC (Metropolitan Area)","Detroit, MI",1941.75
+"Washington, DC (Metropolitan Area)","Minneapolis/St. Paul, MN",1946.75
+"Washington, DC (Metropolitan Area)","Greenville/Spartanburg, SC",252.0
+"Washington, DC (Metropolitan Area)","Cincinnati, OH",966.25
+"Washington, DC (Metropolitan Area)","Pensacola, FL",283.75
+"Washington, DC (Metropolitan Area)","Portland, ME",465.0
+"Washington, DC (Metropolitan Area)","Salt Lake City, UT",1101.0
+"Atlanta, GA (Metropolitan Area)","Albany, NY",251.5
+"Atlanta, GA (Metropolitan Area)","Pittsburgh, PA",799.5
+"Atlanta, GA (Metropolitan Area)","Hartford, CT",601.5
+"Atlanta, GA (Metropolitan Area)","Cleveland, OH (Metropolitan Area)",1034.75
+"Atlanta, GA (Metropolitan Area)","Nashville, TN",489.5
+"Atlanta, GA (Metropolitan Area)","Columbus, OH",772.5
+"Atlanta, GA (Metropolitan Area)","St. Louis, MO",925.25
+"Atlanta, GA (Metropolitan Area)","Jacksonville, FL",611.25
+"Atlanta, GA (Metropolitan Area)","New York City, NY (Metropolitan Area)",8072.25
+"Atlanta, GA (Metropolitan Area)","Fort Myers, FL",508.75
+"Atlanta, GA (Metropolitan Area)","Grand Rapids, MI",350.3333333333333
+"Atlanta, GA (Metropolitan Area)","Indianapolis, IN",741.75
+"Atlanta, GA (Metropolitan Area)","Miami, FL (Metropolitan Area)",4307.25
+"Atlanta, GA (Metropolitan Area)","Little Rock, AR",214.25
+"Atlanta, GA (Metropolitan Area)","Sacramento, CA",385.6666666666667
+"Atlanta, GA (Metropolitan Area)","Tampa, FL (Metropolitan Area)",1613.25
+"Atlanta, GA (Metropolitan Area)","Kansas City, MO",928.75
+"Atlanta, GA (Metropolitan Area)","San Antonio, TX",733.5
+"Atlanta, GA (Metropolitan Area)","Omaha, NE",290.0
+"Atlanta, GA (Metropolitan Area)","Milwaukee, WI",697.0
+"Atlanta, GA (Metropolitan Area)","New Orleans, LA",1023.5
+"Atlanta, GA (Metropolitan Area)","Oklahoma City, OK",290.5
+"Atlanta, GA (Metropolitan Area)","Raleigh/Durham, NC",971.25
+"Atlanta, GA (Metropolitan Area)","Rochester, NY",256.5
+"Atlanta, GA (Metropolitan Area)","Detroit, MI",1666.0
+"Atlanta, GA (Metropolitan Area)","Minneapolis/St. Paul, MN",1272.5
+"Atlanta, GA (Metropolitan Area)","Cincinnati, OH",394.0
+"Atlanta, GA (Metropolitan Area)","Philadelphia, PA",2129.0
+"Atlanta, GA (Metropolitan Area)","Portland, ME",291.0
+"Atlanta, GA (Metropolitan Area)","Tulsa, OK",212.0
+"Atlanta, GA (Metropolitan Area)","West Palm Beach/Palm Beach, FL",744.25
+"Atlanta, GA (Metropolitan Area)","Richmond, VA",673.25
+"Seattle, WA","Pittsburgh, PA",266.5
+"Seattle, WA","Hartford, CT",212.0
+"Seattle, WA","Cleveland, OH (Metropolitan Area)",205.5
+"Seattle, WA","Columbus, OH",273.2
+"Seattle, WA","Jacksonville, FL",210.0
+"Seattle, WA","Sacramento, CA",1557.75
+"Seattle, WA","Kansas City, MO",588.0
+"Seattle, WA","San Antonio, TX",470.0
+"Seattle, WA","Omaha, NE",338.0
+"Seattle, WA","Milwaukee, WI",543.0
+"Seattle, WA","New Orleans, LA",504.3333333333333
+"Seattle, WA","Oklahoma City, OK",182.0
+"Seattle, WA","Reno, NV",389.5
+"Seattle, WA","St. Louis, MO",545.0
+"Seattle, WA","Tucson, AZ",312.5
+"Salt Lake City, UT","Pittsburgh, PA",214.0
+"Salt Lake City, UT","Nashville, TN",260.0
+"Salt Lake City, UT","Sacramento, CA",479.25
+"Salt Lake City, UT","New Orleans, LA",216.5
+"Salt Lake City, UT","Raleigh/Durham, NC",223.5
+"Salt Lake City, UT","Reno, NV",186.0
+"Salt Lake City, UT","Detroit, MI",325.0
+"Salt Lake City, UT","St. Louis, MO",250.5
+"Salt Lake City, UT","Tampa, FL (Metropolitan Area)",231.0
+"Salt Lake City, UT","San Antonio, TX",276.3333333333333
+"Pittsburgh, PA","St. Louis, MO",221.75
+"Pittsburgh, PA","Tampa, FL (Metropolitan Area)",794.75
+"Pittsburgh, PA","Nashville, TN",299.5
+"Pittsburgh, PA","Fort Myers, FL",332.0
+"Pittsburgh, PA","Miami, FL (Metropolitan Area)",844.0
+"Pittsburgh, PA","New Orleans, LA",231.8
+"Pittsburgh, PA","Charlotte, NC",346.0
+"Pittsburgh, PA","Minneapolis/St. Paul, MN",288.0
+"Hartford, CT","Miami, FL (Metropolitan Area)",856.0
+"Hartford, CT","Tampa, FL (Metropolitan Area)",840.5
+"Hartford, CT","Minneapolis/St. Paul, MN",285.25
+"Hartford, CT","West Palm Beach/Palm Beach, FL",341.0
+"Hartford, CT","Fort Myers, FL",512.3333333333334
+"Hartford, CT","Charlotte, NC",319.0
+"Hartford, CT","Detroit, MI",284.0
+"El Paso, TX","New York City, NY (Metropolitan Area)",226.66666666666666
+"El Paso, TX","San Antonio, TX",312.0
+"Nashville, TN","Cleveland, OH (Metropolitan Area)",394.75
+"Nashville, TN","St. Louis, MO",203.0
+"Nashville, TN","Panama City, FL",248.0
+"Nashville, TN","New York City, NY (Metropolitan Area)",2262.0
+"Nashville, TN","Sacramento, CA",211.33333333333334
+"Nashville, TN","Tampa, FL (Metropolitan Area)",744.5
+"Nashville, TN","San Antonio, TX",283.4
+"Nashville, TN","New Orleans, LA",370.1666666666667
+"Nashville, TN","Raleigh/Durham, NC",589.0
+"Nashville, TN","Philadelphia, PA",900.25
+"Nashville, TN","Charleston, SC",210.0
+"Nashville, TN","Columbus, OH",190.0
+"Nashville, TN","Jacksonville, FL",355.0
+"Nashville, TN","Fort Myers, FL",233.0
+"Nashville, TN","Miami, FL (Metropolitan Area)",1153.75
+"Nashville, TN","Kansas City, MO",389.14285714285717
+"Nashville, TN","Milwaukee, WI",350.0
+"Nashville, TN","Charlotte, NC",564.0
+"Nashville, TN","Detroit, MI",773.75
+"Nashville, TN","Minneapolis/St. Paul, MN",591.75
+"St. Louis, MO","Cleveland, OH (Metropolitan Area)",281.0
+"St. Louis, MO","Columbus, OH",184.0
+"St. Louis, MO","Tampa, FL (Metropolitan Area)",492.4
+"St. Louis, MO","New York City, NY (Metropolitan Area)",1567.25
+"St. Louis, MO","Fort Myers, FL",324.0
+"St. Louis, MO","Miami, FL (Metropolitan Area)",677.5714285714286
+"St. Louis, MO","Sacramento, CA",225.33333333333334
+"St. Louis, MO","Kansas City, MO",212.0
+"St. Louis, MO","San Antonio, TX",285.0
+"St. Louis, MO","Omaha, NE",198.33333333333334
+"St. Louis, MO","New Orleans, LA",274.42857142857144
+"St. Louis, MO","Raleigh/Durham, NC",287.75
+"St. Louis, MO","Charlotte, NC",299.0
+"St. Louis, MO","Detroit, MI",447.5
+"St. Louis, MO","Minneapolis/St. Paul, MN",625.75
+"St. Louis, MO","Philadelphia, PA",506.5
+"Jacksonville, FL","Miami, FL (Metropolitan Area)",677.3333333333334
+"Jacksonville, FL","Minneapolis/St. Paul, MN",213.0
+"Jacksonville, FL","Detroit, MI",210.33333333333334
+"New York City, NY (Metropolitan Area)","Tampa, FL (Metropolitan Area)",4811.25
+"New York City, NY (Metropolitan Area)","San Antonio, TX",931.5
+"New York City, NY (Metropolitan Area)","Omaha, NE",452.0
+"New York City, NY (Metropolitan Area)","Oklahoma City, OK",326.5
+"New York City, NY (Metropolitan Area)","Tucson, AZ",226.0
+"New York City, NY (Metropolitan Area)","Tulsa, OK",217.0
+"New York City, NY (Metropolitan Area)","Indianapolis, IN",1433.0
+"New York City, NY (Metropolitan Area)","Little Rock, AR",209.33333333333334
+"New York City, NY (Metropolitan Area)","Kansas City, MO",1149.5
+"New York City, NY (Metropolitan Area)","Milwaukee, WI",1022.0
+"Indianapolis, IN","Fort Myers, FL",486.6666666666667
+"Indianapolis, IN","Miami, FL (Metropolitan Area)",788.0
+"Indianapolis, IN","Tampa, FL (Metropolitan Area)",835.5
+"Indianapolis, IN","Kansas City, MO",241.0
+"Indianapolis, IN","New Orleans, LA",193.0
+"Indianapolis, IN","Raleigh/Durham, NC",229.25
+"Indianapolis, IN","Minneapolis/St. Paul, MN",404.25
+"Indianapolis, IN","Philadelphia, PA",283.0
+"Miami, FL (Metropolitan Area)","Albany, NY",479.6666666666667
+"Miami, FL (Metropolitan Area)","Birmingham, AL",195.5
+"Miami, FL (Metropolitan Area)","Buffalo, NY",701.6666666666666
+"Miami, FL (Metropolitan Area)","Columbus, OH",657.6666666666666
+"Miami, FL (Metropolitan Area)","Sacramento, CA",217.5
+"Miami, FL (Metropolitan Area)","San Antonio, TX",396.4
+"Miami, FL (Metropolitan Area)","Omaha, NE",206.0
+"Miami, FL (Metropolitan Area)","Milwaukee, WI",347.85714285714283
+"Miami, FL (Metropolitan Area)","New Orleans, LA",1062.0
+"Miami, FL (Metropolitan Area)","Raleigh/Durham, NC",1148.5
+"Miami, FL (Metropolitan Area)","Rochester, NY",222.0
+"Miami, FL (Metropolitan Area)","Philadelphia, PA",2734.0
+"Miami, FL (Metropolitan Area)","Kansas City, MO",508.25
+"Miami, FL (Metropolitan Area)","Charlotte, NC",809.3333333333334
+"Louisville, KY","Tampa, FL (Metropolitan Area)",325.5
+"Sacramento, CA","Boise, ID",304.7142857142857
+"Sacramento, CA","San Antonio, TX",219.0
+"Sacramento, CA","Spokane, WA",224.0
+"Sacramento, CA","New Orleans, LA",209.0
+"Sacramento, CA","Minneapolis/St. Paul, MN",266.3333333333333
+"Sacramento, CA","Philadelphia, PA",200.0
+"Tampa, FL (Metropolitan Area)","Albany, NY",320.7142857142857
+"Tampa, FL (Metropolitan Area)","Birmingham, AL",254.25
+"Tampa, FL (Metropolitan Area)","Buffalo, NY",507.25
+"Tampa, FL (Metropolitan Area)","Columbus, OH",717.0
+"Tampa, FL (Metropolitan Area)","Kansas City, MO",468.0
+"Tampa, FL (Metropolitan Area)","San Antonio, TX",267.0
+"Tampa, FL (Metropolitan Area)","Memphis, TN",280.0
+"Tampa, FL (Metropolitan Area)","Omaha, NE",210.0
+"Tampa, FL (Metropolitan Area)","Milwaukee, WI",498.0
+"Tampa, FL (Metropolitan Area)","New Orleans, LA",509.0
+"Tampa, FL (Metropolitan Area)","Raleigh/Durham, NC",625.25
+"Tampa, FL (Metropolitan Area)","Rochester, NY",272.0
+"Tampa, FL (Metropolitan Area)","Charlotte, NC",427.0
+"Tampa, FL (Metropolitan Area)","Minneapolis/St. Paul, MN",580.0
+"Kansas City, MO","Fort Myers, FL",271.0
+"Kansas City, MO","San Antonio, TX",281.75
+"Kansas City, MO","Milwaukee, WI",212.25
+"Kansas City, MO","New Orleans, LA",265.7142857142857
+"Kansas City, MO","Raleigh/Durham, NC",280.8
+"Kansas City, MO","Minneapolis/St. Paul, MN",482.75
+"Kansas City, MO","Philadelphia, PA",334.0
+"Kansas City, MO","Charlotte, NC",243.0
+"San Antonio, TX","New Orleans, LA",303.0
+"San Antonio, TX","Raleigh/Durham, NC",228.5
+"San Antonio, TX","Charlotte, NC",242.0
+"San Antonio, TX","Detroit, MI",306.6666666666667
+"San Antonio, TX","Minneapolis/St. Paul, MN",306.0
+"San Antonio, TX","Philadelphia, PA",341.0
+"Memphis, TN","Charlotte, NC",219.5
+"Milwaukee, WI","Cleveland, OH (Metropolitan Area)",255.5
+"Milwaukee, WI","Fort Myers, FL",436.5
+"New Orleans, LA","Cleveland, OH (Metropolitan Area)",249.0
+"New Orleans, LA","Columbus, OH",218.5
+"New Orleans, LA","Raleigh/Durham, NC",307.75
+"New Orleans, LA","Charlotte, NC",287.5
+"Raleigh/Durham, NC","Cleveland, OH (Metropolitan Area)",189.5
+"Raleigh/Durham, NC","Minneapolis/St. Paul, MN",378.0
+"Detroit, MI","West Palm Beach/Palm Beach, FL",230.5
+"Philadelphia, PA","Cleveland, OH (Metropolitan Area)",278.0
+"Philadelphia, PA","West Palm Beach/Palm Beach, FL",613.3333333333334
+"Albany, NY","Fort Myers, FL",200.0
+"Fort Myers, FL","Buffalo, NY",402.0
+"Fort Myers, FL","Columbus, OH",409.5
+"Fort Myers, FL","Grand Rapids, MI",384.0
+"Grand Rapids, MI","Minneapolis/St. Paul, MN",218.0
+"Minneapolis/St. Paul, MN","Cleveland, OH (Metropolitan Area)",286.0
+"Minneapolis/St. Paul, MN","Columbus, OH",318.0
+"Minneapolis/St. Paul, MN","Cincinnati, OH",252.0
+"Spokane, WA","Boise, ID",411.75
+"Cleveland, OH (Metropolitan Area)","Charlotte, NC",378.0
+"Columbus, OH","Charlotte, NC",181.0
+"Buffalo, NY","Charlotte, NC",207.0
