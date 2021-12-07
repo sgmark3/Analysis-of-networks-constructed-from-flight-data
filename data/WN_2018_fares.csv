@@ -1,0 +1,722 @@
+Origin city,Destination city,Average fare (in $)
+"Albuquerque, NM","Dallas/Fort Worth, TX",218
+"Albuquerque, NM","Denver, CO",147
+"Albuquerque, NM","Austin, TX",173
+"Albuquerque, NM","Phoenix, AZ",152
+"Albuquerque, NM","Boston, MA (Metropolitan Area)",268
+"Albuquerque, NM","Chicago, IL",259
+"Albuquerque, NM","Houston, TX",248
+"Albuquerque, NM","Orlando, FL",220
+"Albuquerque, NM","Las Vegas, NV",158
+"Albuquerque, NM","San Francisco, CA (Metropolitan Area)",187
+"Albuquerque, NM","Los Angeles, CA (Metropolitan Area)",163
+"Albuquerque, NM","San Diego, CA",146
+"Albuquerque, NM","Portland, OR",201
+"Albuquerque, NM","Washington, DC (Metropolitan Area)",288
+"Albuquerque, NM","Atlanta, GA (Metropolitan Area)",261
+"Albuquerque, NM","Seattle, WA",189
+"Albuquerque, NM","Salt Lake City, UT",228
+"Dallas/Fort Worth, TX","Pittsburgh, PA",221
+"Dallas/Fort Worth, TX","Denver, CO",177
+"Dallas/Fort Worth, TX","Phoenix, AZ",216
+"Dallas/Fort Worth, TX","Hartford, CT",335
+"Dallas/Fort Worth, TX","El Paso, TX",218
+"Dallas/Fort Worth, TX","Nashville, TN",219
+"Dallas/Fort Worth, TX","St. Louis, MO",206
+"Dallas/Fort Worth, TX","Jacksonville, FL",275
+"Dallas/Fort Worth, TX","Houston, TX",201
+"Dallas/Fort Worth, TX","Orlando, FL",206
+"Dallas/Fort Worth, TX","Panama City, FL",221
+"Dallas/Fort Worth, TX","New York City, NY (Metropolitan Area)",233
+"Dallas/Fort Worth, TX","Indianapolis, IN",244
+"Dallas/Fort Worth, TX","Miami, FL (Metropolitan Area)",237
+"Dallas/Fort Worth, TX","Los Angeles, CA (Metropolitan Area)",204
+"Dallas/Fort Worth, TX","Little Rock, AR",181
+"Dallas/Fort Worth, TX","Louisville, KY",272
+"Dallas/Fort Worth, TX","Sacramento, CA",270
+"Dallas/Fort Worth, TX","Tampa, FL (Metropolitan Area)",204
+"Dallas/Fort Worth, TX","Kansas City, MO",174
+"Dallas/Fort Worth, TX","San Antonio, TX",190
+"Dallas/Fort Worth, TX","Memphis, TN",199
+"Dallas/Fort Worth, TX","Omaha, NE",212
+"Dallas/Fort Worth, TX","Milwaukee, WI",205
+"Dallas/Fort Worth, TX","New Orleans, LA",170
+"Dallas/Fort Worth, TX","San Diego, CA",199
+"Dallas/Fort Worth, TX","Oklahoma City, OK",181
+"Dallas/Fort Worth, TX","Raleigh/Durham, NC",250
+"Dallas/Fort Worth, TX","Reno, NV",282
+"Dallas/Fort Worth, TX","Des Moines, IA",251
+"Dallas/Fort Worth, TX","Washington, DC (Metropolitan Area)",222
+"Dallas/Fort Worth, TX","Detroit, MI",198
+"Dallas/Fort Worth, TX","Greenville/Spartanburg, SC",276
+"Dallas/Fort Worth, TX","Pensacola, FL",244
+"Dallas/Fort Worth, TX","Philadelphia, PA",254
+"Dallas/Fort Worth, TX","Salt Lake City, UT",216
+"Dallas/Fort Worth, TX","Lubbock, TX",192
+"Dallas/Fort Worth, TX","Midland/Odessa, TX",229
+"Dallas/Fort Worth, TX","Tulsa, OK",158
+"Dallas/Fort Worth, TX","West Palm Beach/Palm Beach, FL",299
+"Dallas/Fort Worth, TX","Richmond, VA",321
+"Dallas/Fort Worth, TX","Amarillo, TX",185
+"Dallas/Fort Worth, TX","Austin, TX",187
+"Dallas/Fort Worth, TX","Birmingham, AL",235
+"Dallas/Fort Worth, TX","Cleveland, OH (Metropolitan Area)",285
+"Dallas/Fort Worth, TX","Boise, ID",255
+"Dallas/Fort Worth, TX","Buffalo, NY",236
+"Dallas/Fort Worth, TX","Chicago, IL",207
+"Dallas/Fort Worth, TX","Charleston, SC",241
+"Dallas/Fort Worth, TX","Columbus, OH",240
+"Dallas/Fort Worth, TX","Atlanta, GA (Metropolitan Area)",180
+"Dallas/Fort Worth, TX","Charlotte, NC",275
+"Dallas/Fort Worth, TX","Corpus Christi, TX",236
+"Denver, CO","Albany, NY",237
+"Denver, CO","Pittsburgh, PA",220
+"Denver, CO","Phoenix, AZ",148
+"Denver, CO","Hartford, CT",287
+"Denver, CO","Nashville, TN",196
+"Denver, CO","St. Louis, MO",167
+"Denver, CO","Jacksonville, FL",207
+"Denver, CO","Houston, TX",204
+"Denver, CO","Orlando, FL",195
+"Denver, CO","New York City, NY (Metropolitan Area)",244
+"Denver, CO","Grand Rapids, MI",223
+"Denver, CO","Las Vegas, NV",139
+"Denver, CO","Indianapolis, IN",188
+"Denver, CO","San Francisco, CA (Metropolitan Area)",177
+"Denver, CO","Los Angeles, CA (Metropolitan Area)",154
+"Denver, CO","Louisville, KY",189
+"Denver, CO","Sacramento, CA",209
+"Denver, CO","Tampa, FL (Metropolitan Area)",206
+"Denver, CO","Kansas City, MO",158
+"Denver, CO","San Antonio, TX",187
+"Denver, CO","Omaha, NE",149
+"Denver, CO","Milwaukee, WI",171
+"Denver, CO","New Orleans, LA",193
+"Denver, CO","San Diego, CA",160
+"Denver, CO","Norfolk, VA (Metropolitan Area)",301
+"Denver, CO","Oklahoma City, OK",159
+"Denver, CO","Portland, OR",162
+"Denver, CO","Raleigh/Durham, NC",210
+"Denver, CO","Reno, NV",183
+"Denver, CO","Tucson, AZ",196
+"Denver, CO","Seattle, WA",129
+"Denver, CO","Detroit, MI",178
+"Denver, CO","Minneapolis/St. Paul, MN",145
+"Denver, CO","Philadelphia, PA",207
+"Denver, CO","Salt Lake City, UT",144
+"Denver, CO","Spokane, WA",170
+"Denver, CO","Tulsa, OK",170
+"Denver, CO","Richmond, VA",311
+"Denver, CO","Austin, TX",164
+"Denver, CO","Cleveland, OH (Metropolitan Area)",222
+"Denver, CO","Boise, ID",180
+"Denver, CO","Boston, MA (Metropolitan Area)",252
+"Denver, CO","Chicago, IL",186
+"Denver, CO","Charleston, SC",202
+"Denver, CO","Columbus, OH",207
+"Denver, CO","Atlanta, GA (Metropolitan Area)",198
+"Austin, TX","Pittsburgh, PA",244
+"Austin, TX","Phoenix, AZ",195
+"Austin, TX","El Paso, TX",201
+"Austin, TX","Cleveland, OH (Metropolitan Area)",222
+"Austin, TX","Nashville, TN",247
+"Austin, TX","Boston, MA (Metropolitan Area)",237
+"Austin, TX","Chicago, IL",221
+"Austin, TX","Columbus, OH",188
+"Austin, TX","St. Louis, MO",218
+"Austin, TX","Houston, TX",207
+"Austin, TX","Orlando, FL",173
+"Austin, TX","New York City, NY (Metropolitan Area)",239
+"Austin, TX","Las Vegas, NV",177
+"Austin, TX","Indianapolis, IN",189
+"Austin, TX","San Francisco, CA (Metropolitan Area)",227
+"Austin, TX","Miami, FL (Metropolitan Area)",198
+"Austin, TX","Los Angeles, CA (Metropolitan Area)",193
+"Austin, TX","Sacramento, CA",223
+"Austin, TX","Tampa, FL (Metropolitan Area)",204
+"Austin, TX","Kansas City, MO",198
+"Austin, TX","Milwaukee, WI",165
+"Austin, TX","New Orleans, LA",170
+"Austin, TX","San Diego, CA",190
+"Austin, TX","Raleigh/Durham, NC",213
+"Austin, TX","Washington, DC (Metropolitan Area)",287
+"Austin, TX","Detroit, MI",261
+"Austin, TX","Philadelphia, PA",285
+"Austin, TX","Salt Lake City, UT",244
+"Austin, TX","Atlanta, GA (Metropolitan Area)",193
+"Phoenix, AZ","Pittsburgh, PA",249
+"Phoenix, AZ","St. Louis, MO",227
+"Phoenix, AZ","San Francisco, CA (Metropolitan Area)",172
+"Phoenix, AZ","Sacramento, CA",171
+"Phoenix, AZ","Tampa, FL (Metropolitan Area)",253
+"Phoenix, AZ","San Antonio, TX",202
+"Phoenix, AZ","San Diego, CA",158
+"Phoenix, AZ","Portland, OR",180
+"Phoenix, AZ","Raleigh/Durham, NC",282
+"Phoenix, AZ","Reno, NV",196
+"Phoenix, AZ","Washington, DC (Metropolitan Area)",298
+"Phoenix, AZ","Seattle, WA",182
+"Phoenix, AZ","Salt Lake City, UT",182
+"Phoenix, AZ","Spokane, WA",192
+"Phoenix, AZ","Tulsa, OK",245
+"Phoenix, AZ","Wichita, KS",166
+"Phoenix, AZ","Hartford, CT",309
+"Phoenix, AZ","El Paso, TX",151
+"Phoenix, AZ","Cleveland, OH (Metropolitan Area)",220
+"Phoenix, AZ","Nashville, TN",265
+"Phoenix, AZ","Boise, ID",166
+"Phoenix, AZ","Buffalo, NY",280
+"Phoenix, AZ","Chicago, IL",208
+"Phoenix, AZ","Columbus, OH",260
+"Phoenix, AZ","Houston, TX",242
+"Phoenix, AZ","Orlando, FL",254
+"Phoenix, AZ","Las Vegas, NV",145
+"Phoenix, AZ","Indianapolis, IN",245
+"Phoenix, AZ","Miami, FL (Metropolitan Area)",280
+"Phoenix, AZ","Los Angeles, CA (Metropolitan Area)",157
+"Phoenix, AZ","Louisville, KY",264
+"Phoenix, AZ","Kansas City, MO",210
+"Phoenix, AZ","Memphis, TN",283
+"Phoenix, AZ","Omaha, NE",189
+"Phoenix, AZ","Milwaukee, WI",218
+"Phoenix, AZ","New Orleans, LA",266
+"Phoenix, AZ","Oklahoma City, OK",238
+"Phoenix, AZ","Atlanta, GA (Metropolitan Area)",252
+"Phoenix, AZ","Detroit, MI",244
+"Phoenix, AZ","Minneapolis/St. Paul, MN",181
+"Phoenix, AZ","Philadelphia, PA",272
+"Boston, MA (Metropolitan Area)","Nashville, TN",172
+"Boston, MA (Metropolitan Area)","Chicago, IL",164
+"Boston, MA (Metropolitan Area)","Columbus, OH",210
+"Boston, MA (Metropolitan Area)","St. Louis, MO",270
+"Boston, MA (Metropolitan Area)","Orlando, FL",175
+"Boston, MA (Metropolitan Area)","Fort Myers, FL",216
+"Boston, MA (Metropolitan Area)","Grand Rapids, MI",220
+"Boston, MA (Metropolitan Area)","Indianapolis, IN",202
+"Boston, MA (Metropolitan Area)","Miami, FL (Metropolitan Area)",189
+"Boston, MA (Metropolitan Area)","Louisville, KY",223
+"Boston, MA (Metropolitan Area)","Tampa, FL (Metropolitan Area)",188
+"Boston, MA (Metropolitan Area)","Kansas City, MO",202
+"Boston, MA (Metropolitan Area)","San Antonio, TX",272
+"Boston, MA (Metropolitan Area)","Memphis, TN",293
+"Boston, MA (Metropolitan Area)","Omaha, NE",274
+"Boston, MA (Metropolitan Area)","Milwaukee, WI",206
+"Boston, MA (Metropolitan Area)","Washington, DC (Metropolitan Area)",153
+"Boston, MA (Metropolitan Area)","Tucson, AZ",315
+"Chicago, IL","Albany, NY",261
+"Chicago, IL","Birmingham, AL",227
+"Chicago, IL","Boise, ID",301
+"Chicago, IL","Buffalo, NY",179
+"Chicago, IL","Pittsburgh, PA",188
+"Chicago, IL","Hartford, CT",270
+"Chicago, IL","El Paso, TX",266
+"Chicago, IL","Cleveland, OH (Metropolitan Area)",191
+"Chicago, IL","Nashville, TN",214
+"Chicago, IL","Columbus, OH",181
+"Chicago, IL","St. Louis, MO",204
+"Chicago, IL","Jacksonville, FL",242
+"Chicago, IL","Houston, TX",213
+"Chicago, IL","Orlando, FL",170
+"Chicago, IL","New York City, NY (Metropolitan Area)",184
+"Chicago, IL","Fort Myers, FL",180
+"Chicago, IL","Las Vegas, NV",192
+"Chicago, IL","Indianapolis, IN",172
+"Chicago, IL","San Francisco, CA (Metropolitan Area)",266
+"Chicago, IL","Miami, FL (Metropolitan Area)",178
+"Chicago, IL","Los Angeles, CA (Metropolitan Area)",227
+"Chicago, IL","Louisville, KY",173
+"Chicago, IL","Sacramento, CA",253
+"Chicago, IL","Tampa, FL (Metropolitan Area)",188
+"Chicago, IL","Kansas City, MO",188
+"Chicago, IL","San Antonio, TX",226
+"Chicago, IL","Memphis, TN",198
+"Chicago, IL","Omaha, NE",179
+"Chicago, IL","New Orleans, LA",192
+"Chicago, IL","Norfolk, VA (Metropolitan Area)",188
+"Chicago, IL","Oklahoma City, OK",200
+"Chicago, IL","Raleigh/Durham, NC",203
+"Chicago, IL","Reno, NV",289
+"Chicago, IL","Washington, DC (Metropolitan Area)",212
+"Chicago, IL","Tucson, AZ",279
+"Chicago, IL","Seattle, WA",226
+"Chicago, IL","Detroit, MI",180
+"Chicago, IL","Minneapolis/St. Paul, MN",182
+"Chicago, IL","Cincinnati, OH",144
+"Chicago, IL","Philadelphia, PA",248
+"Chicago, IL","Salt Lake City, UT",254
+"Chicago, IL","Spokane, WA",282
+"Chicago, IL","Tulsa, OK",279
+"Chicago, IL","Charleston, SC",188
+"Chicago, IL","Atlanta, GA (Metropolitan Area)",163
+"Chicago, IL","Charlotte, NC",232
+"Houston, TX","Amarillo, TX",186
+"Houston, TX","Hartford, CT",288
+"Houston, TX","Birmingham, AL",231
+"Houston, TX","El Paso, TX",244
+"Houston, TX","Cleveland, OH (Metropolitan Area)",298
+"Houston, TX","Buffalo, NY",252
+"Houston, TX","Charleston, SC",216
+"Houston, TX","Columbus, OH",264
+"Houston, TX","Pittsburgh, PA",277
+"Houston, TX","Nashville, TN",229
+"Houston, TX","St. Louis, MO",238
+"Houston, TX","Jacksonville, FL",271
+"Houston, TX","New York City, NY (Metropolitan Area)",270
+"Houston, TX","Las Vegas, NV",189
+"Houston, TX","Indianapolis, IN",253
+"Houston, TX","San Francisco, CA (Metropolitan Area)",286
+"Houston, TX","Miami, FL (Metropolitan Area)",202
+"Houston, TX","Little Rock, AR",230
+"Houston, TX","Louisville, KY",237
+"Houston, TX","Sacramento, CA",294
+"Houston, TX","Tampa, FL (Metropolitan Area)",181
+"Houston, TX","Kansas City, MO",219
+"Houston, TX","San Antonio, TX",193
+"Houston, TX","Memphis, TN",217
+"Houston, TX","Omaha, NE",194
+"Houston, TX","Milwaukee, WI",206
+"Houston, TX","New Orleans, LA",179
+"Houston, TX","San Diego, CA",205
+"Houston, TX","Norfolk, VA (Metropolitan Area)",254
+"Houston, TX","Oklahoma City, OK",230
+"Houston, TX","Portland, OR",293
+"Houston, TX","Raleigh/Durham, NC",214
+"Houston, TX","Washington, DC (Metropolitan Area)",251
+"Houston, TX","Philadelphia, PA",306
+"Houston, TX","Salt Lake City, UT",275
+"Houston, TX","Lubbock, TX",220
+"Houston, TX","Midland/Odessa, TX",310
+"Houston, TX","Tulsa, OK",229
+"Houston, TX","Richmond, VA",258
+"Houston, TX","Harlingen/San Benito, TX",181
+"Houston, TX","Atlanta, GA (Metropolitan Area)",166
+"Houston, TX","Charlotte, NC",205
+"Orlando, FL","Albany, NY",173
+"Orlando, FL","Hartford, CT",163
+"Orlando, FL","Birmingham, AL",183
+"Orlando, FL","Nashville, TN",171
+"Orlando, FL","Buffalo, NY",154
+"Orlando, FL","Columbus, OH",157
+"Orlando, FL","Pittsburgh, PA",155
+"Orlando, FL","St. Louis, MO",172
+"Orlando, FL","San Francisco, CA (Metropolitan Area)",272
+"Orlando, FL","Sacramento, CA",248
+"Orlando, FL","San Antonio, TX",202
+"Orlando, FL","San Diego, CA",222
+"Orlando, FL","Portland, OR",263
+"Orlando, FL","Raleigh/Durham, NC",155
+"Orlando, FL","Rochester, NY",191
+"Orlando, FL","Washington, DC (Metropolitan Area)",151
+"Orlando, FL","Portland, ME",202
+"Orlando, FL","Tulsa, OK",199
+"Orlando, FL","New York City, NY (Metropolitan Area)",160
+"Orlando, FL","Grand Rapids, MI",164
+"Orlando, FL","Las Vegas, NV",196
+"Orlando, FL","Indianapolis, IN",158
+"Orlando, FL","Miami, FL (Metropolitan Area)",134
+"Orlando, FL","Louisville, KY",197
+"Orlando, FL","Kansas City, MO",182
+"Orlando, FL","Memphis, TN",179
+"Orlando, FL","Omaha, NE",192
+"Orlando, FL","Milwaukee, WI",165
+"Orlando, FL","New Orleans, LA",157
+"Orlando, FL","Norfolk, VA (Metropolitan Area)",178
+"Orlando, FL","Oklahoma City, OK",190
+"Orlando, FL","Des Moines, IA",203
+"Orlando, FL","Atlanta, GA (Metropolitan Area)",152
+"Las Vegas, NV","Hartford, CT",272
+"Las Vegas, NV","El Paso, TX",166
+"Las Vegas, NV","Cleveland, OH (Metropolitan Area)",169
+"Las Vegas, NV","Boise, ID",152
+"Las Vegas, NV","Buffalo, NY",260
+"Las Vegas, NV","Columbus, OH",201
+"Las Vegas, NV","Jacksonville, FL",265
+"Las Vegas, NV","Pittsburgh, PA",199
+"Las Vegas, NV","Nashville, TN",210
+"Las Vegas, NV","St. Louis, MO",178
+"Las Vegas, NV","San Francisco, CA (Metropolitan Area)",134
+"Las Vegas, NV","Los Angeles, CA (Metropolitan Area)",125
+"Las Vegas, NV","Louisville, KY",199
+"Las Vegas, NV","Sacramento, CA",180
+"Las Vegas, NV","Tampa, FL (Metropolitan Area)",191
+"Las Vegas, NV","San Antonio, TX",178
+"Las Vegas, NV","Omaha, NE",168
+"Las Vegas, NV","Milwaukee, WI",190
+"Las Vegas, NV","New Orleans, LA",185
+"Las Vegas, NV","San Diego, CA",130
+"Las Vegas, NV","Norfolk, VA (Metropolitan Area)",287
+"Las Vegas, NV","Oklahoma City, OK",195
+"Las Vegas, NV","Portland, OR",141
+"Las Vegas, NV","Raleigh/Durham, NC",199
+"Las Vegas, NV","Reno, NV",162
+"Las Vegas, NV","Washington, DC (Metropolitan Area)",230
+"Las Vegas, NV","Tucson, AZ",158
+"Las Vegas, NV","Seattle, WA",150
+"Las Vegas, NV","Salt Lake City, UT",142
+"Las Vegas, NV","Spokane, WA",167
+"Las Vegas, NV","Tulsa, OK",191
+"Las Vegas, NV","Wichita, KS",154
+"Las Vegas, NV","Richmond, VA",283
+"Las Vegas, NV","Indianapolis, IN",185
+"Las Vegas, NV","Kansas City, MO",173
+"San Francisco, CA (Metropolitan Area)","Pittsburgh, PA",309
+"San Francisco, CA (Metropolitan Area)","Albany, NY",343
+"San Francisco, CA (Metropolitan Area)","Hartford, CT",324
+"San Francisco, CA (Metropolitan Area)","El Paso, TX",211
+"San Francisco, CA (Metropolitan Area)","Cleveland, OH (Metropolitan Area)",316
+"San Francisco, CA (Metropolitan Area)","Nashville, TN",262
+"San Francisco, CA (Metropolitan Area)","Boise, ID",187
+"San Francisco, CA (Metropolitan Area)","Buffalo, NY",285
+"San Francisco, CA (Metropolitan Area)","Charleston, SC",340
+"San Francisco, CA (Metropolitan Area)","Columbus, OH",282
+"San Francisco, CA (Metropolitan Area)","Jacksonville, FL",327
+"San Francisco, CA (Metropolitan Area)","Grand Rapids, MI",312
+"San Francisco, CA (Metropolitan Area)","Indianapolis, IN",261
+"San Francisco, CA (Metropolitan Area)","St. Louis, MO",267
+"San Francisco, CA (Metropolitan Area)","Tampa, FL (Metropolitan Area)",309
+"San Francisco, CA (Metropolitan Area)","Washington, DC (Metropolitan Area)",345
+"San Francisco, CA (Metropolitan Area)","Tucson, AZ",195
+"San Francisco, CA (Metropolitan Area)","Seattle, WA",159
+"San Francisco, CA (Metropolitan Area)","Spokane, WA",190
+"San Francisco, CA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",124
+"San Francisco, CA (Metropolitan Area)","Louisville, KY",360
+"San Francisco, CA (Metropolitan Area)","Kansas City, MO",243
+"San Francisco, CA (Metropolitan Area)","San Antonio, TX",228
+"San Francisco, CA (Metropolitan Area)","Memphis, TN",316
+"San Francisco, CA (Metropolitan Area)","Omaha, NE",241
+"San Francisco, CA (Metropolitan Area)","Milwaukee, WI",263
+"San Francisco, CA (Metropolitan Area)","New Orleans, LA",264
+"San Francisco, CA (Metropolitan Area)","San Diego, CA",128
+"San Francisco, CA (Metropolitan Area)","Norfolk, VA (Metropolitan Area)",335
+"San Francisco, CA (Metropolitan Area)","Oklahoma City, OK",260
+"San Francisco, CA (Metropolitan Area)","Portland, OR",134
+"San Francisco, CA (Metropolitan Area)","Reno, NV",130
+"San Francisco, CA (Metropolitan Area)","Atlanta, GA (Metropolitan Area)",319
+"San Francisco, CA (Metropolitan Area)","Charlotte, NC",359
+"San Francisco, CA (Metropolitan Area)","Detroit, MI",350
+"San Francisco, CA (Metropolitan Area)","Salt Lake City, UT",163
+"Los Angeles, CA (Metropolitan Area)","Albany, NY",320
+"Los Angeles, CA (Metropolitan Area)","Hartford, CT",331
+"Los Angeles, CA (Metropolitan Area)","Birmingham, AL",322
+"Los Angeles, CA (Metropolitan Area)","El Paso, TX",171
+"Los Angeles, CA (Metropolitan Area)","Boise, ID",179
+"Los Angeles, CA (Metropolitan Area)","Charleston, SC",323
+"Los Angeles, CA (Metropolitan Area)","Columbus, OH",294
+"Los Angeles, CA (Metropolitan Area)","Jacksonville, FL",329
+"Los Angeles, CA (Metropolitan Area)","Grand Rapids, MI",309
+"Los Angeles, CA (Metropolitan Area)","Indianapolis, IN",272
+"Los Angeles, CA (Metropolitan Area)","Pittsburgh, PA",246
+"Los Angeles, CA (Metropolitan Area)","Nashville, TN",281
+"Los Angeles, CA (Metropolitan Area)","St. Louis, MO",261
+"Los Angeles, CA (Metropolitan Area)","Louisville, KY",329
+"Los Angeles, CA (Metropolitan Area)","Sacramento, CA",135
+"Los Angeles, CA (Metropolitan Area)","Tampa, FL (Metropolitan Area)",308
+"Los Angeles, CA (Metropolitan Area)","San Antonio, TX",203
+"Los Angeles, CA (Metropolitan Area)","Omaha, NE",230
+"Los Angeles, CA (Metropolitan Area)","Milwaukee, WI",254
+"Los Angeles, CA (Metropolitan Area)","New Orleans, LA",211
+"Los Angeles, CA (Metropolitan Area)","Norfolk, VA (Metropolitan Area)",317
+"Los Angeles, CA (Metropolitan Area)","Oklahoma City, OK",251
+"Los Angeles, CA (Metropolitan Area)","Portland, OR",157
+"Los Angeles, CA (Metropolitan Area)","Raleigh/Durham, NC",282
+"Los Angeles, CA (Metropolitan Area)","Reno, NV",161
+"Los Angeles, CA (Metropolitan Area)","Tucson, AZ",165
+"Los Angeles, CA (Metropolitan Area)","Spokane, WA",201
+"Los Angeles, CA (Metropolitan Area)","Tulsa, OK",237
+"Los Angeles, CA (Metropolitan Area)","Wichita, KS",239
+"Los Angeles, CA (Metropolitan Area)","Little Rock, AR",272
+"Los Angeles, CA (Metropolitan Area)","Kansas City, MO",205
+"Los Angeles, CA (Metropolitan Area)","Des Moines, IA",270
+"Los Angeles, CA (Metropolitan Area)","Atlanta, GA (Metropolitan Area)",271
+"San Diego, CA","Pittsburgh, PA",267
+"San Diego, CA","Hartford, CT",330
+"San Diego, CA","Cleveland, OH (Metropolitan Area)",271
+"San Diego, CA","Nashville, TN",281
+"San Diego, CA","Boise, ID",154
+"San Diego, CA","Columbus, OH",268
+"San Diego, CA","Jacksonville, FL",291
+"San Diego, CA","Indianapolis, IN",243
+"San Diego, CA","Miami, FL (Metropolitan Area)",279
+"San Diego, CA","Sacramento, CA",125
+"San Diego, CA","Kansas City, MO",191
+"San Diego, CA","San Antonio, TX",210
+"San Diego, CA","Milwaukee, WI",248
+"San Diego, CA","New Orleans, LA",238
+"San Diego, CA","St. Louis, MO",210
+"San Diego, CA","Tampa, FL (Metropolitan Area)",248
+"San Diego, CA","Washington, DC (Metropolitan Area)",295
+"San Diego, CA","Tucson, AZ",176
+"San Diego, CA","Seattle, WA",166
+"San Diego, CA","Spokane, WA",185
+"San Diego, CA","Norfolk, VA (Metropolitan Area)",331
+"San Diego, CA","Oklahoma City, OK",183
+"San Diego, CA","Portland, OR",163
+"San Diego, CA","Raleigh/Durham, NC",268
+"San Diego, CA","Reno, NV",184
+"San Diego, CA","Atlanta, GA (Metropolitan Area)",316
+"San Diego, CA","Detroit, MI",291
+"San Diego, CA","Philadelphia, PA",337
+"San Diego, CA","Salt Lake City, UT",159
+"Portland, OR","Nashville, TN",275
+"Portland, OR","Indianapolis, IN",268
+"Portland, OR","Miami, FL (Metropolitan Area)",322
+"Portland, OR","Kansas City, MO",233
+"Portland, OR","Omaha, NE",211
+"Portland, OR","Milwaukee, WI",241
+"Portland, OR","New Orleans, LA",271
+"Portland, OR","St. Louis, MO",241
+"Portland, OR","Sacramento, CA",153
+"Portland, OR","Tampa, FL (Metropolitan Area)",286
+"Portland, OR","Reno, NV",174
+"Portland, OR","Washington, DC (Metropolitan Area)",294
+"Portland, OR","Tucson, AZ",199
+"Portland, OR","Philadelphia, PA",305
+"Washington, DC (Metropolitan Area)","Pittsburgh, PA",190
+"Washington, DC (Metropolitan Area)","Albany, NY",181
+"Washington, DC (Metropolitan Area)","Hartford, CT",160
+"Washington, DC (Metropolitan Area)","Birmingham, AL",238
+"Washington, DC (Metropolitan Area)","El Paso, TX",298
+"Washington, DC (Metropolitan Area)","Cleveland, OH (Metropolitan Area)",183
+"Washington, DC (Metropolitan Area)","Nashville, TN",218
+"Washington, DC (Metropolitan Area)","Boise, ID",322
+"Washington, DC (Metropolitan Area)","Buffalo, NY",173
+"Washington, DC (Metropolitan Area)","Columbus, OH",148
+"Washington, DC (Metropolitan Area)","St. Louis, MO",216
+"Washington, DC (Metropolitan Area)","Jacksonville, FL",183
+"Washington, DC (Metropolitan Area)","Panama City, FL",255
+"Washington, DC (Metropolitan Area)","Fort Myers, FL",202
+"Washington, DC (Metropolitan Area)","Grand Rapids, MI",180
+"Washington, DC (Metropolitan Area)","Indianapolis, IN",185
+"Washington, DC (Metropolitan Area)","Miami, FL (Metropolitan Area)",171
+"Washington, DC (Metropolitan Area)","Little Rock, AR",267
+"Washington, DC (Metropolitan Area)","Louisville, KY",188
+"Washington, DC (Metropolitan Area)","Sacramento, CA",309
+"Washington, DC (Metropolitan Area)","Tampa, FL (Metropolitan Area)",184
+"Washington, DC (Metropolitan Area)","Kansas City, MO",226
+"Washington, DC (Metropolitan Area)","San Antonio, TX",258
+"Washington, DC (Metropolitan Area)","Memphis, TN",221
+"Washington, DC (Metropolitan Area)","Omaha, NE",211
+"Washington, DC (Metropolitan Area)","Milwaukee, WI",192
+"Washington, DC (Metropolitan Area)","New Orleans, LA",197
+"Washington, DC (Metropolitan Area)","Norfolk, VA (Metropolitan Area)",193
+"Washington, DC (Metropolitan Area)","Oklahoma City, OK",252
+"Washington, DC (Metropolitan Area)","Raleigh/Durham, NC",175
+"Washington, DC (Metropolitan Area)","Reno, NV",324
+"Washington, DC (Metropolitan Area)","Rochester, NY",169
+"Washington, DC (Metropolitan Area)","Des Moines, IA",251
+"Washington, DC (Metropolitan Area)","West Palm Beach/Palm Beach, FL",214
+"Washington, DC (Metropolitan Area)","Atlanta, GA (Metropolitan Area)",190
+"Washington, DC (Metropolitan Area)","Tucson, AZ",322
+"Washington, DC (Metropolitan Area)","Seattle, WA",290
+"Washington, DC (Metropolitan Area)","Charlotte, NC",193
+"Washington, DC (Metropolitan Area)","Detroit, MI",174
+"Washington, DC (Metropolitan Area)","Minneapolis/St. Paul, MN",217
+"Washington, DC (Metropolitan Area)","Greenville/Spartanburg, SC",206
+"Washington, DC (Metropolitan Area)","Cincinnati, OH",147
+"Washington, DC (Metropolitan Area)","Pensacola, FL",255
+"Washington, DC (Metropolitan Area)","Portland, ME",174
+"Washington, DC (Metropolitan Area)","Salt Lake City, UT",296
+"Atlanta, GA (Metropolitan Area)","Albany, NY",244
+"Atlanta, GA (Metropolitan Area)","Pittsburgh, PA",195
+"Atlanta, GA (Metropolitan Area)","Hartford, CT",232
+"Atlanta, GA (Metropolitan Area)","Cleveland, OH (Metropolitan Area)",169
+"Atlanta, GA (Metropolitan Area)","Nashville, TN",165
+"Atlanta, GA (Metropolitan Area)","Columbus, OH",177
+"Atlanta, GA (Metropolitan Area)","St. Louis, MO",170
+"Atlanta, GA (Metropolitan Area)","Jacksonville, FL",193
+"Atlanta, GA (Metropolitan Area)","New York City, NY (Metropolitan Area)",204
+"Atlanta, GA (Metropolitan Area)","Fort Myers, FL",189
+"Atlanta, GA (Metropolitan Area)","Grand Rapids, MI",228
+"Atlanta, GA (Metropolitan Area)","Indianapolis, IN",188
+"Atlanta, GA (Metropolitan Area)","Miami, FL (Metropolitan Area)",147
+"Atlanta, GA (Metropolitan Area)","Little Rock, AR",260
+"Atlanta, GA (Metropolitan Area)","Sacramento, CA",317
+"Atlanta, GA (Metropolitan Area)","Tampa, FL (Metropolitan Area)",167
+"Atlanta, GA (Metropolitan Area)","Kansas City, MO",174
+"Atlanta, GA (Metropolitan Area)","San Antonio, TX",192
+"Atlanta, GA (Metropolitan Area)","Omaha, NE",238
+"Atlanta, GA (Metropolitan Area)","Milwaukee, WI",184
+"Atlanta, GA (Metropolitan Area)","New Orleans, LA",166
+"Atlanta, GA (Metropolitan Area)","Oklahoma City, OK",255
+"Atlanta, GA (Metropolitan Area)","Raleigh/Durham, NC",211
+"Atlanta, GA (Metropolitan Area)","Rochester, NY",220
+"Atlanta, GA (Metropolitan Area)","Detroit, MI",188
+"Atlanta, GA (Metropolitan Area)","Minneapolis/St. Paul, MN",238
+"Atlanta, GA (Metropolitan Area)","Cincinnati, OH",274
+"Atlanta, GA (Metropolitan Area)","Philadelphia, PA",184
+"Atlanta, GA (Metropolitan Area)","Portland, ME",234
+"Atlanta, GA (Metropolitan Area)","Tulsa, OK",236
+"Atlanta, GA (Metropolitan Area)","West Palm Beach/Palm Beach, FL",177
+"Atlanta, GA (Metropolitan Area)","Richmond, VA",202
+"Seattle, WA","Pittsburgh, PA",307
+"Seattle, WA","Hartford, CT",316
+"Seattle, WA","Cleveland, OH (Metropolitan Area)",285
+"Seattle, WA","Columbus, OH",289
+"Seattle, WA","Jacksonville, FL",307
+"Seattle, WA","Sacramento, CA",143
+"Seattle, WA","Kansas City, MO",200
+"Seattle, WA","San Antonio, TX",224
+"Seattle, WA","Omaha, NE",221
+"Seattle, WA","Milwaukee, WI",211
+"Seattle, WA","New Orleans, LA",251
+"Seattle, WA","Oklahoma City, OK",196
+"Seattle, WA","Reno, NV",197
+"Seattle, WA","St. Louis, MO",243
+"Seattle, WA","Tucson, AZ",222
+"Salt Lake City, UT","Pittsburgh, PA",262
+"Salt Lake City, UT","Nashville, TN",285
+"Salt Lake City, UT","Sacramento, CA",168
+"Salt Lake City, UT","New Orleans, LA",271
+"Salt Lake City, UT","Raleigh/Durham, NC",293
+"Salt Lake City, UT","Reno, NV",209
+"Salt Lake City, UT","Detroit, MI",330
+"Salt Lake City, UT","St. Louis, MO",260
+"Salt Lake City, UT","Tampa, FL (Metropolitan Area)",267
+"Salt Lake City, UT","San Antonio, TX",232
+"Pittsburgh, PA","St. Louis, MO",196
+"Pittsburgh, PA","Tampa, FL (Metropolitan Area)",152
+"Pittsburgh, PA","Nashville, TN",183
+"Pittsburgh, PA","Fort Myers, FL",184
+"Pittsburgh, PA","Miami, FL (Metropolitan Area)",163
+"Pittsburgh, PA","New Orleans, LA",198
+"Pittsburgh, PA","Charlotte, NC",263
+"Pittsburgh, PA","Minneapolis/St. Paul, MN",273
+"Hartford, CT","Miami, FL (Metropolitan Area)",161
+"Hartford, CT","Tampa, FL (Metropolitan Area)",160
+"Hartford, CT","Minneapolis/St. Paul, MN",313
+"Hartford, CT","West Palm Beach/Palm Beach, FL",218
+"Hartford, CT","Fort Myers, FL",185
+"Hartford, CT","Charlotte, NC",274
+"Hartford, CT","Detroit, MI",238
+"El Paso, TX","New York City, NY (Metropolitan Area)",314
+"El Paso, TX","San Antonio, TX",221
+"Nashville, TN","Cleveland, OH (Metropolitan Area)",178
+"Nashville, TN","St. Louis, MO",166
+"Nashville, TN","Panama City, FL",178
+"Nashville, TN","New York City, NY (Metropolitan Area)",231
+"Nashville, TN","Sacramento, CA",275
+"Nashville, TN","Tampa, FL (Metropolitan Area)",177
+"Nashville, TN","San Antonio, TX",237
+"Nashville, TN","New Orleans, LA",209
+"Nashville, TN","Raleigh/Durham, NC",167
+"Nashville, TN","Philadelphia, PA",195
+"Nashville, TN","Charleston, SC",213
+"Nashville, TN","Columbus, OH",206
+"Nashville, TN","Jacksonville, FL",181
+"Nashville, TN","Fort Myers, FL",172
+"Nashville, TN","Miami, FL (Metropolitan Area)",171
+"Nashville, TN","Kansas City, MO",205
+"Nashville, TN","Milwaukee, WI",132
+"Nashville, TN","Charlotte, NC",182
+"Nashville, TN","Detroit, MI",199
+"Nashville, TN","Minneapolis/St. Paul, MN",211
+"St. Louis, MO","Cleveland, OH (Metropolitan Area)",189
+"St. Louis, MO","Columbus, OH",196
+"St. Louis, MO","Tampa, FL (Metropolitan Area)",197
+"St. Louis, MO","New York City, NY (Metropolitan Area)",232
+"St. Louis, MO","Fort Myers, FL",202
+"St. Louis, MO","Miami, FL (Metropolitan Area)",222
+"St. Louis, MO","Sacramento, CA",267
+"St. Louis, MO","Kansas City, MO",171
+"St. Louis, MO","San Antonio, TX",228
+"St. Louis, MO","Omaha, NE",189
+"St. Louis, MO","New Orleans, LA",228
+"St. Louis, MO","Raleigh/Durham, NC",244
+"St. Louis, MO","Charlotte, NC",282
+"St. Louis, MO","Detroit, MI",220
+"St. Louis, MO","Minneapolis/St. Paul, MN",231
+"St. Louis, MO","Philadelphia, PA",252
+"Jacksonville, FL","Miami, FL (Metropolitan Area)",129
+"Jacksonville, FL","Minneapolis/St. Paul, MN",261
+"Jacksonville, FL","Detroit, MI",245
+"New York City, NY (Metropolitan Area)","Tampa, FL (Metropolitan Area)",183
+"New York City, NY (Metropolitan Area)","San Antonio, TX",264
+"New York City, NY (Metropolitan Area)","Omaha, NE",268
+"New York City, NY (Metropolitan Area)","Oklahoma City, OK",285
+"New York City, NY (Metropolitan Area)","Tucson, AZ",304
+"New York City, NY (Metropolitan Area)","Tulsa, OK",301
+"New York City, NY (Metropolitan Area)","Indianapolis, IN",193
+"New York City, NY (Metropolitan Area)","Little Rock, AR",289
+"New York City, NY (Metropolitan Area)","Kansas City, MO",248
+"New York City, NY (Metropolitan Area)","Milwaukee, WI",199
+"Indianapolis, IN","Fort Myers, FL",184
+"Indianapolis, IN","Miami, FL (Metropolitan Area)",183
+"Indianapolis, IN","Tampa, FL (Metropolitan Area)",155
+"Indianapolis, IN","Kansas City, MO",194
+"Indianapolis, IN","New Orleans, LA",189
+"Indianapolis, IN","Raleigh/Durham, NC",212
+"Indianapolis, IN","Minneapolis/St. Paul, MN",253
+"Indianapolis, IN","Philadelphia, PA",322
+"Miami, FL (Metropolitan Area)","Albany, NY",181
+"Miami, FL (Metropolitan Area)","Birmingham, AL",269
+"Miami, FL (Metropolitan Area)","Buffalo, NY",167
+"Miami, FL (Metropolitan Area)","Columbus, OH",178
+"Miami, FL (Metropolitan Area)","Sacramento, CA",318
+"Miami, FL (Metropolitan Area)","San Antonio, TX",223
+"Miami, FL (Metropolitan Area)","Omaha, NE",243
+"Miami, FL (Metropolitan Area)","Milwaukee, WI",198
+"Miami, FL (Metropolitan Area)","New Orleans, LA",162
+"Miami, FL (Metropolitan Area)","Raleigh/Durham, NC",165
+"Miami, FL (Metropolitan Area)","Rochester, NY",215
+"Miami, FL (Metropolitan Area)","Philadelphia, PA",188
+"Miami, FL (Metropolitan Area)","Kansas City, MO",227
+"Miami, FL (Metropolitan Area)","Charlotte, NC",266
+"Louisville, KY","Tampa, FL (Metropolitan Area)",170
+"Sacramento, CA","Boise, ID",129
+"Sacramento, CA","San Antonio, TX",236
+"Sacramento, CA","Spokane, WA",172
+"Sacramento, CA","New Orleans, LA",242
+"Sacramento, CA","Minneapolis/St. Paul, MN",278
+"Sacramento, CA","Philadelphia, PA",317
+"Tampa, FL (Metropolitan Area)","Albany, NY",208
+"Tampa, FL (Metropolitan Area)","Birmingham, AL",191
+"Tampa, FL (Metropolitan Area)","Buffalo, NY",171
+"Tampa, FL (Metropolitan Area)","Columbus, OH",154
+"Tampa, FL (Metropolitan Area)","Kansas City, MO",188
+"Tampa, FL (Metropolitan Area)","San Antonio, TX",227
+"Tampa, FL (Metropolitan Area)","Memphis, TN",167
+"Tampa, FL (Metropolitan Area)","Omaha, NE",171
+"Tampa, FL (Metropolitan Area)","Milwaukee, WI",176
+"Tampa, FL (Metropolitan Area)","New Orleans, LA",157
+"Tampa, FL (Metropolitan Area)","Raleigh/Durham, NC",169
+"Tampa, FL (Metropolitan Area)","Rochester, NY",200
+"Tampa, FL (Metropolitan Area)","Charlotte, NC",290
+"Tampa, FL (Metropolitan Area)","Minneapolis/St. Paul, MN",221
+"Kansas City, MO","Fort Myers, FL",203
+"Kansas City, MO","San Antonio, TX",184
+"Kansas City, MO","Milwaukee, WI",191
+"Kansas City, MO","New Orleans, LA",207
+"Kansas City, MO","Raleigh/Durham, NC",183
+"Kansas City, MO","Minneapolis/St. Paul, MN",204
+"Kansas City, MO","Philadelphia, PA",272
+"Kansas City, MO","Charlotte, NC",281
+"San Antonio, TX","New Orleans, LA",167
+"San Antonio, TX","Raleigh/Durham, NC",182
+"San Antonio, TX","Charlotte, NC",275
+"San Antonio, TX","Detroit, MI",264
+"San Antonio, TX","Minneapolis/St. Paul, MN",254
+"San Antonio, TX","Philadelphia, PA",258
+"Memphis, TN","Charlotte, NC",286
+"Milwaukee, WI","Cleveland, OH (Metropolitan Area)",120
+"Milwaukee, WI","Fort Myers, FL",197
+"New Orleans, LA","Cleveland, OH (Metropolitan Area)",173
+"New Orleans, LA","Columbus, OH",170
+"New Orleans, LA","Raleigh/Durham, NC",179
+"New Orleans, LA","Charlotte, NC",266
+"Raleigh/Durham, NC","Cleveland, OH (Metropolitan Area)",195
+"Raleigh/Durham, NC","Minneapolis/St. Paul, MN",243
+"Detroit, MI","West Palm Beach/Palm Beach, FL",258
+"Philadelphia, PA","Cleveland, OH (Metropolitan Area)",319
+"Philadelphia, PA","West Palm Beach/Palm Beach, FL",213
+"Albany, NY","Fort Myers, FL",236
+"Fort Myers, FL","Buffalo, NY",175
+"Fort Myers, FL","Columbus, OH",176
+"Fort Myers, FL","Grand Rapids, MI",184
+"Grand Rapids, MI","Minneapolis/St. Paul, MN",239
+"Minneapolis/St. Paul, MN","Cleveland, OH (Metropolitan Area)",282
+"Minneapolis/St. Paul, MN","Columbus, OH",257
+"Minneapolis/St. Paul, MN","Cincinnati, OH",263
+"Spokane, WA","Boise, ID",106
+"Cleveland, OH (Metropolitan Area)","Charlotte, NC",258
+"Columbus, OH","Charlotte, NC",283
+"Buffalo, NY","Charlotte, NC",249
