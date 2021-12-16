@@ -3,9 +3,9 @@ We extract flight networks from various open source data sources such as The Bur
 traversed by specific airlines during a specific time window within certain country or continent. A preliminary analysis is performed 
 in this jupyter notebook by computing centrality measures and shortest paths between two arbitrary locations. We can also do a clustering analysis by finding cliques of different sizes. Cliques are complete connected network motifs. For example, triangle is a clique with 
 three nodes and a tetrahedron is a clique with four nodes. Using centrality measures we can predict the busy airports and depot locations
-(HQ) of airlines. Note that we pick Southwest airlines (WN) for our analysis, but the user can change the airline by entering a different two letter code in the fifth cell of the notebook. 
+(HQ) of airlines. Note that we pick Southwest airlines (WN) for our analysis, but a user can change the airline by entering a different two letter code in the fifth cell of the notebook. 
 
-We also compute a itenararies for 51 aircrafts that visit each and every node (airport) in the flight network exactly once. There are 72
+We also compute travel itenararies for 51 aircrafts that visit each and every node (airport) in the flight network exactly once. There are 72
 airports (nodes) and 721 routes (edges) in the flight network. None of these tours involve visiting more than three airports including the depot.
 We used the Google OR Tools for solving the VRP. The codebase with documentation and examples is available at the following website: 
 https://developers.google.com/optimization/routing/vrp
